@@ -6,5 +6,4 @@ Required mods :
 https://geode-sdk.org/mods/eclipse.eclipse-menu
 
 > [!IMPORTANT]
-> **Required Settings:** All macros in this repository require exactly **240 FPS** and **240 TPS** to run properly
-> If your computer is not 240fps, then it will be **impossible!**
+> **Required Settings:** All macros in this repository require exactly **240 FPS** and **240 TPS** to run properly, if your computer is not 240fps, then it will be **impossible!**
